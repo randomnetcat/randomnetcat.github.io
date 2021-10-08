@@ -3,11 +3,9 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-# Jason's Very Basic Portfolio
+# Jason's Basic Portfolio
 
-Hello there! I'm Jason. This is an extremely basic list of the things that I've done that I think are worth sharing.
-
-If it isn't obvious from this portfolio, I'm not a front-end dev.
+Hello there! I'm Jason. This is a basic list of the things that I've done that I think are worth sharing.
 
 ## Nomic-Related Things
 
@@ -24,7 +22,7 @@ In addition to writing code for report generation,
 
 ## Other Things
 
-* I made [flowchart for the C++20 initialization rules](randomnetcat.github.io/cpp_initialization/initialization.svg) to
+* I made [flowchart for the C++20 initialization rules](https://randomnetcat.github.io/cpp_initialization/initialization.svg) (not a blank page, scroll right + down) to
   assist with determining what the very complicated rules should do in a given circumstance and to assist with standard pedantry.
   This was made using GNU M4 to preprocess a hand-written source file into Graphviz code, which is then passed to `dot`.
   [Source code](https://github.com/randomnetcat/cpp_initialization).
