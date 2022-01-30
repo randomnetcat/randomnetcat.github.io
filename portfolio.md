@@ -18,7 +18,9 @@ bot for the Agora chat server. The repositories for those projects are listed be
 
 ### Writeups
 
-In addition to writing code for report generation, 
+In addition to writing code for report generation, I've made a few writeups analyzing data from Agora:
+* [Ruleset Thesis](https://agoranomic.org/ruleset-thesis): 2019 writeup on the dependencies between rules
+* [Assessor Thesis](https://randomcat.org/assessor-thesis): 2021 writeup on voting patterns
 
 ## Other Things
 
