@@ -3,9 +3,9 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-# Jason's Basic Portfolio
+# Janet's Basic Portfolio
 
-Hello there! I'm Jason. This is a basic list of the things that I've done that I think are worth sharing.
+Hello there! I'm Janet. This is a basic list of the things that I've done that I think are worth sharing.
 
 ## Nomic-Related Things
 
@@ -28,5 +28,3 @@ In addition to writing code for report generation, I've made a few writeups anal
   assist with determining what the very complicated rules should do in a given circumstance and to assist with standard pedantry.
   This was made using GNU M4 to preprocess a hand-written source file into Graphviz code, which is then passed to `dot`.
   [Source code](https://github.com/randomnetcat/cpp_initialization).
-
-
